@@ -7,3 +7,15 @@ p {
    font-family: "Akaya Kanadaka", "sans-serif";
    font-size: larger;
 }
+.red” {
+        color: #ff0000;
+    }
+    .blue {
+        color: blue;
+    }
+    .white {
+        color: #fefcfc;
+    }
+    .black {
+        color: black;
+    }
