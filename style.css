@@ -1,7 +1,7 @@
-    body {
+     body {
         background-color: black;
     }
-    .red” {
+    .red {
         color: #ff0000;
     }
     .blue {
@@ -15,10 +15,11 @@
     }
 h1 {
     font-family: "Stardos Stencil", "sans-serif";
-      font-style: italic;
-      font-weight: bold;
+    font-style: italic;
+    font-weight: bold;
 }
 p {
-   font-family: "Akaya Kanadaka", "sans-serif";
-   font-size: larger;
+    font-family: "Akaya Kanadaka", "sans-serif";
+    font-size: larger;
+    color: #fefcfc;
 }
