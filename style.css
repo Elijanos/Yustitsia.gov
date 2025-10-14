@@ -23,3 +23,9 @@ p {
     font-size: larger;
     color: #fefcfc;
 }
+.mgm {
+  border-color: gold;
+  border-style: outset;
+  border-radius: 12px;
+  padding: 5px;
+}
