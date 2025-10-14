@@ -22,3 +22,9 @@ p {
     .black {
         color: black;
     }
+.mgm {
+  border-color: gold;
+  border-style: outset;
+  border-radius: 12px;
+  padding: 5px;
+}
