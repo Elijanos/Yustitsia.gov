@@ -1,1 +1,1 @@
-# Yustitsia.gov
+# Yustitsia cumhuriyeti
